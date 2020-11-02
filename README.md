@@ -4,7 +4,7 @@
 #### Subserve은 멋쟁이 사자처럼 X 롯데 해커톤 출품을 위한 프로젝트입니다.
 
 <br><br>
-## "subsribe to service in LOTTE"
+## "subscribe to service in LOTTE"
 
 <br>
 
