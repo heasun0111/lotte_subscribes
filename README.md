@@ -18,7 +18,7 @@
  - 메뉴 검색
  - 주변 매장 위치 제공<br>
 
-<br><br>
+<br>
  
  
 **코드 컨벤션**<br>
@@ -60,6 +60,7 @@
     </li>
 </ol>
 
+<br>
 
 **실행 방법**<br>
 Master branch를 pull 받는다.
@@ -84,7 +85,6 @@ Python version 3.6.8
 Django==2.1.1
 pytz==2020.1
 ```
-<br>
 
 🔹 **추가사항** <br>
 결제기능을 실행하고싶다면 [iamport](https://www.iamport.kr/getstarted)로 이동하여 IMP를 발급받은 후 <br>
@@ -105,3 +105,5 @@ subserve > detail > templates > subscribe.html 15 line을 수정하십시오.
 **프로젝트 contribute 방법** <br>
 코드 컨벤션을 확인해주신 후 규칙에 따라 작성해주시고, <br>
 오타, 버그 픽스, PR 의견 제시 등은 Issues를 통해 알려주시길 바랍니다!!
+
+<br>
